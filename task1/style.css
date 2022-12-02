@@ -1,0 +1,21 @@
+body {
+    display: block;
+    align-items: center;
+    justify-content: center;
+    background: url(/images/bg.jpg) bottom no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    color: rgb(240, 240, 240);
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+a {
+    color: rgb(184, 181, 181);
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
